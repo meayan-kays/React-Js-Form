@@ -1,0 +1,13 @@
+.footer{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 104.5px;
+    margin-right: 104.5px;
+    background-color: #c9a806;
+    color: #fff;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
